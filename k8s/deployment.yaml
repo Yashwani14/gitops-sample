@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: acrcreate.azurecr.io/sample-app:9.9.9
+        image: acrcreate.azurecr.io/sample-app:1.0.0
         ports:
         - containerPort: 80
